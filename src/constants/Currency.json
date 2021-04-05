@@ -1,0 +1,22 @@
+{
+  "USD": {
+    "symbol": "$",
+    "code": "USD",
+    "decimalPlaces": 2
+  },
+  "EUR": {
+    "symbol": "€",
+    "code": "EUR",
+    "decimalPlaces": 2
+  },
+  "GBP": {
+    "symbol": "£",
+    "code": "GBP",
+    "decimalPlaces": 2
+  },
+  "PLN": {
+    "symbol": "zł ",
+    "code": "PLN",
+    "decimalPlaces": 2
+  }
+}
